@@ -57,14 +57,6 @@ Inside the notebook, you will find:
 * **Inference** – generating colorized images.
 * **Visualization** – comparing grayscale and colorized outputs.
 
-## 🖼️ Example
-
-| Input (Grayscale)          | Output (Colorized)           |
-| -------------------------- | ---------------------------- |
-| ![Gray](./sample_gray.jpg) | ![Color](./sample_color.jpg) |
-
-*(Replace with actual results from your notebook)*
-
 ## 📚 Technologies Used
 
 * Python
