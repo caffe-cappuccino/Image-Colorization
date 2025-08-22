@@ -10,17 +10,7 @@
 Bring grayscale images 🖤 back to life 🌈 using **deep learning + computer vision**.  
 This project demonstrates how an AI model can **learn colors** and apply them to black-and-white photos — all inside a Jupyter Notebook.  
 
----
 
-## ✨ Demo Preview  
-
-| Grayscale | Colorized |
-|-----------|-----------|
-| ![gray](https://via.placeholder.com/200x200/000000/FFFFFF?text=Grayscale) | ![color](https://via.placeholder.com/200x200/ff69b4/000000?text=Colorized) |
-
-*(Replace with real examples from your runs!)*  
-
----
 
 ## 📂 Project Structure  
 
